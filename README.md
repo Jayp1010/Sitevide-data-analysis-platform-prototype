@@ -4,7 +4,7 @@ This prototype project is designed to manage and analyze statewide data, support
 1. - Open Tableau Desktop on your computer.
 
 2. - Click on "Connect" in the top-left corner.
-   - Choose your data connection type (e.g., PostgreSQL).
+   - Choose your data connection type.
    - Enter the database credentials and select the `state_data` table.
 
 3. - After connecting, you will see the Data Source page.
