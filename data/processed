@@ -1,1 +1,9 @@
+date,metric1,metric2,metric3
+2024-01-01,100,20.5,Category A
+2024-01-02,150,25.0,Category B
+2024-01-03,200,30.0,Category A
+2024-01-04,250,35.5,Category C
+2024-01-05,300,40.0,Category B
 
+
+(looks like this after running ETL script)
